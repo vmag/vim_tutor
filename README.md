@@ -3,9 +3,7 @@
 ## Global
 ```bash
 :help keyword # open help for keyword
-:o file       # open file
-:saveas file  # save file as
-:close        # close current pane
+:e file       # open file
 ```
 
 ## Cursor movement
